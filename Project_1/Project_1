@@ -1,0 +1,12 @@
+git clone https://github.com/myaisikana-dot/Computational-Social-Science-Projects.git
+ls
+cd Computationl-Social-Science-Projects
+mkdir Project_1
+cd Project_1
+touch Project_1.txt
+nano Project_1.txt
+git status
+git add *
+git commit -m "Project 1"
+git push
+
